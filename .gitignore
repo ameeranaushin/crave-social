@@ -1,0 +1,12 @@
+node_modules/
+reference/
+qa/
+*.tar.gz
+.DS_Store
+
+.openai/
+*.zip
+.env
+.env.*
+!.env.example
+*.log

@@ -1,0 +1,98 @@
+@font-face {
+  font-family: 'Antonio';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./antonio-0.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Antonio';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(./antonio-1.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Antonio';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(./antonio-2.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Antonio';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(./antonio-3.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./cormorant-0.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(./cormorant-1.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Hubot Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(./hubot-0.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Hubot Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(./hubot-1.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Hubot Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(./hubot-2.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Hubot Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(./hubot-3.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Kalnia';
+  font-style: normal;
+  font-weight: 200;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(./kalnia-0.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Kalnia';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(./kalnia-1.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Kalnia';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(./kalnia-2.woff2) format('truetype');
+}

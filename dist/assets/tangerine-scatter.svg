@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="235" viewBox="0 0 270 235">
+  <defs>
+    <g id="half">
+      <path d="M-21-7h42c0 14-9 25-21 25S-21 7-21-7Z" fill="#F7931A"/>
+      <path d="M-18-7h36C17 5 10 15 0 15S-17 5-18-7Z" fill="#F5F2EB"/>
+      <path d="M-15-5h30C14 5 8 12 0 12S-14 5-15-5Z" fill="#F7931A"/>
+      <path d="m0-5-12 9M0-5-5 16M0-5 5 16M0-5l12 9" fill="none" stroke="#F5F2EB" stroke-width="1.3"/>
+    </g>
+  </defs>
+  <g opacity=".76"><use href="#half" transform="translate(53 45) rotate(-23) scale(.82)"/><use href="#half" transform="translate(199 112) rotate(31) scale(1)"/><use href="#half" transform="translate(75 203) rotate(14) scale(.66)"/></g>
+</svg>
