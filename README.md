@@ -12,6 +12,10 @@ npm run dev
 
 Open http://127.0.0.1:4173. The complete website lives in `dist/`. The source repository is https://github.com/ameeranaushin/crave-social. Serve or deploy the contents of `dist/` with any static host. Pushing source to GitHub does not deploy a live website.
 
+## Deploy on Vercel
+
+Import this repository with the Root Directory left at the repository root (`.`). The tracked `vercel.json` selects the Other framework preset, runs `npm run check`, and publishes `dist` as the Output Directory. Vercel must serve `dist/index.html` at `/`, rather than exposing the site beneath `/dist/`. Pushes to `main` trigger production deployments when the GitHub integration is connected.
+
 ## Connect enquiries
 
 Set `enquiryEmail` in `dist/config.js` when the business email is available. The form then prepares a populated email for the visitor to send in their own email app. Until configured, it explicitly downloads an unsent enquiry draft. No form submission, inbox delivery or guest-list registration is claimed. If automatic form delivery is wanted later, connect a server endpoint or an existing form provider.
